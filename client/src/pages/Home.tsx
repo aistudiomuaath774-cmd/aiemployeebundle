@@ -67,6 +67,7 @@ const faqs = [
 
 function CheckoutLink({ children, className = "", onNavigate }: { children: React.ReactNode; className?: string; onNavigate?: () => void }) {
   const handleClick = () => {
+    window.dispatchEvent(new CustomEvent("product_cta_click", { detail: { source: "homepage" } }));
     onNavigate?.();
   };
 
@@ -131,7 +132,7 @@ export default function Home() {
             <div className="hero__copy">
               <div className="eyebrow"><span className="eyebrow__dot" /> حزمة تشغيل عربية لصاحب المشروع</div>
               <h1>لا تبدأ من<br /><em>صفحة فارغة.</em></h1>
-              <p className="hero__lead">10 موظفين ذكاء اصطناعي جاهزين لمساعدتك في التسويق، المحتوى، المبيعات وخدمة العملاء — انسخ، أدخل معلوماتك، وابدأ.</p>
+              <p className="hero__lead">10 موظفين ذكاء اصطناعي جاهزين لمساعدتك في التسويق، المحتوى، المبيعات وخدمة العملاء — انسخ، أدخل معلوماتك، وابدأ بموظف ذكاء اصطناعي يناسب مهمتك.</p>
               <div className="hero__actions">
                 <CheckoutLink className="button button--primary">
                   ابدأ بموظف واحد <ArrowLeft size={18} strokeWidth={2} />
@@ -171,7 +172,10 @@ export default function Home() {
             <div className="intro__main">
               <h2>بدل أن تجمع عشرات الـ Prompts، <em>اختر الدور المناسب.</em></h2>
               <p>هذه الحزمة تحول المهام المتكررة إلى أدوار واضحة. لكل موظف تعليماته وسياقه ونقطة بداية تساعدك على الوصول إلى نتيجة يمكن مراجعتها وتطويرها.</p>
-              <a href="#how-it-works" className="arrow-link">شاهد طريقة العمل <ArrowLeft size={17} /></a>
+              <div className="intro__links">
+                <a href="#how-it-works" className="arrow-link">شاهد طريقة العمل <ArrowLeft size={17} /></a>
+                <a href="/blog/ai-employees-for-small-business" className="arrow-link">اقرأ: ما هو موظف الذكاء الاصطناعي؟ <ArrowLeft size={17} /></a>
+              </div>
             </div>
           </div>
         </section>
