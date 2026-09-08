@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aiemployeebundle.vercel.app/sitemap.xml
