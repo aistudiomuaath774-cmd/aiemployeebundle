@@ -1,0 +1,692 @@
+MASTER IMPLEMENTATION PROMPT
+AI Employee Bundle V2.1 — SEO + Organic Growth + Conversion Optimization
+
+ROLE
+You are a Senior SEO Engineer, Technical SEO Architect, Conversion Optimization Specialist, Senior React/Vite Developer, and Product Growth Engineer.
+
+You are working directly inside the existing production repository for:
+AI Employee Bundle V2.1
+
+LIVE WEBSITE:
+https://aiemployeebundle.vercel.app/
+
+CURRENT PRICE:
+$19
+
+PRODUCT TYPE:
+Digital PDF / AI workflow and prompt system.
+
+The repository is directly connected to Vercel. Implement the work below in the repository; do not merely provide a plan.
+
+==================================================
+0. ABSOLUTE RULES
+==================================================
+
+1. Do NOT rebuild the website.
+2. Do NOT migrate or replace the framework.
+3. Do NOT redesign the existing UI.
+4. Do NOT unnecessarily change colors, typography, layout, branding, or visual identity.
+5. Keep the product price at $19.
+6. Do NOT break, replace, or redesign the existing Payhip checkout.
+7. Do NOT change the working purchase/delivery flow unless technically required.
+8. Preserve useful existing sales, trust, FAQ, demo, and CTA content.
+9. Do NOT invent testimonials, reviews, ratings, sales figures, customer numbers, results, scarcity, or income guarantees.
+10. Do NOT create misleading SEO content.
+11. Do NOT create hundreds of thin AI-generated pages.
+12. Do NOT create doorway/location spam pages.
+13. Do NOT keyword-stuff.
+14. Do NOT generate spam backlinks.
+15. Do NOT modify unrelated business logic.
+16. Do NOT add unnecessary dependencies.
+17. Preserve Arabic RTL and responsive behavior.
+18. Preserve accessibility.
+19. Prefer small, maintainable modifications.
+20. Inspect the repository before changing anything. Never assume a file exists.
+21. If something already exists and works, improve it rather than duplicating it.
+22. If something is already correct, leave it unchanged.
+
+==================================================
+1. BUSINESS OBJECTIVE
+==================================================
+
+Core positioning:
+"حوّل ChatGPT من أداة تسألها كل مرة إلى فريق AI جاهز لكل مهمة في مشروعك."
+
+The bundle contains 10 AI Employees:
+1. Content Employee
+2. Ads Employee
+3. Customer Support Employee
+4. Sales Employee
+5. Product Employee
+6. Offers Employee
+7. Social Media Employee
+8. Competitor Analysis Employee
+9. Planning Employee
+10. Smart Marketing Manager
+
+Also includes:
+- Project Identity / Project Context
+- Goal → Employee selection
+- Employee workflows
+- Quality Gates
+- Human review principle
+- 30-day implementation plan
+- 30 quick improvement commands
+- Employee Setup Card
+- Final Review Checklist
+
+Main SEO topic:
+AI Employees for Small Business
+
+Arabic concepts:
+موظف ذكاء اصطناعي
+موظفو الذكاء الاصطناعي
+فريق ذكاء اصطناعي
+
+English concepts:
+AI Employee
+AI Employees
+AI Employees for Small Business
+AI for Small Business
+ChatGPT for Business
+AI Marketing
+AI Sales
+AI Customer Service
+AI Content Creation
+AI Business Automation
+
+Arabic remains the primary language.
+
+==================================================
+2. PHASE 1 — AUDIT THE ACTUAL REPOSITORY
+==================================================
+
+Before modifying files, inspect:
+- framework
+- build tool
+- routing
+- entry point
+- homepage
+- components
+- styling
+- assets
+- package.json
+- metadata
+- robots.txt
+- sitemap.xml
+- canonical
+- Open Graph
+- Twitter/X metadata
+- structured data
+- analytics
+- Payhip links
+- existing demo
+- FAQ
+- CTA
+
+Do not blindly create files.
+
+==================================================
+3. TECHNICAL SEO
+==================================================
+
+Homepage title preferred direction:
+"حزمة موظفي الذكاء الاصطناعي | ابدأ بوضوح"
+
+If the current title is already stronger, preserve it.
+
+Create a natural Arabic meta description mentioning where appropriate:
+- 10 AI Employees
+- content
+- ads
+- customer service
+- sales
+- planning
+- project context
+- practical workflow
+- $19 launch price
+
+Canonical:
+https://aiemployeebundle.vercel.app/
+
+Ensure only one canonical exists.
+
+Homepage must be indexable:
+index, follow
+
+Ensure:
+https://aiemployeebundle.vercel.app/robots.txt
+
+allows normal crawling and references:
+Sitemap: https://aiemployeebundle.vercel.app/sitemap.xml
+
+Ensure sitemap.xml is valid and contains only real indexable URLs.
+
+==================================================
+4. OPEN GRAPH / SOCIAL
+==================================================
+
+Implement or improve:
+og:title
+og:description
+og:url
+og:type
+og:site_name
+og:image
+
+Use an existing suitable product/brand image if available.
+
+Also implement appropriate Twitter/X metadata.
+
+Do not invent misleading imagery.
+
+==================================================
+5. STRUCTURED DATA
+==================================================
+
+Implement valid JSON-LD where appropriate:
+- WebSite
+- WebPage
+- Product
+- Article for the new article
+
+Product:
+name: AI Employee Bundle V2.1
+price: 19
+currency: USD
+
+Do NOT invent:
+aggregateRating
+review
+ratingValue
+reviewCount
+fake stock
+fake offers
+
+Only use properties supported by the actual website/product.
+
+==================================================
+6. HOMEPAGE SEO
+==================================================
+
+Improve the existing homepage without redesigning it.
+
+Naturally communicate:
+WHAT: AI Employee Bundle
+WHO: small business owners, entrepreneurs, marketers, freelancers, creators, small teams
+PROBLEM: repeatedly asking ChatGPT from scratch can be inefficient/inconsistent
+SOLUTION: structured AI Employees using project context, workflows, and review
+VALUE: 10 AI Employees for major business tasks
+
+Keep the page a sales page, not a keyword-heavy article.
+
+==================================================
+7. PRIMARY KEYWORD
+==================================================
+
+Target naturally:
+"موظف ذكاء اصطناعي"
+
+Secondary:
+"موظفو الذكاء الاصطناعي"
+"موظفين ذكاء اصطناعي"
+"فريق ذكاء اصطناعي"
+"AI Employee"
+"AI Employees"
+"AI Employees for Small Business"
+
+Never repeat unnaturally.
+
+==================================================
+8. GOAL → EMPLOYEE
+==================================================
+
+If the existing Goal → Employee concept exists, preserve it and improve clarity only if necessary.
+
+Mapping:
+content → 01
+ad → 02
+customer reply → 03
+sales → 04
+product → 05
+offer → 06
+social plan → 07
+competitor understanding → 08
+execution plan → 09
+don't know where to start → 10
+
+Do not redesign the UI.
+
+==================================================
+9. EXISTING DEMO
+==================================================
+
+Preserve:
+"مثال عملي: من اعتراض عميل إلى رد قابل للمراجعة"
+
+Customer:
+"السعر مرتفع."
+
+Employee:
+"موظف خدمة العملاء"
+
+Workflow:
+1. يحدد نوع اعتراض العميل.
+2. يميز المعلومات المؤكدة عن الافتراضات.
+3. لا يخترع خصمًا أو ضمانًا أو ميزة غير موجودة.
+4. يصيغ ردًا مناسبًا للسياق.
+5. يقترح خطوة تالية يمكن مراجعتها قبل الإرسال.
+
+Output:
+"أتفهم أن السعر قد يبدو مرتفعًا. حتى أساعدك بشكل أدق: هل المقارنة مع بديل أرخص، أم أن النتيجة المتوقعة غير واضحة بعد؟ بناءً على إجابتك أشرح لك ما يتضمنه العرض والقيمة التي يقدمها، من دون افتراض خصم غير موجود."
+
+Human review:
+"المراجعة البشرية أولًا: راجع الناتج وتأكد من توافقه مع معلومات مشروعك قبل استخدامه."
+
+Keep this as crawlable HTML text and preserve its disclaimer.
+
+==================================================
+10. FAQ
+==================================================
+
+Preserve the existing FAQ.
+
+Ensure it naturally answers:
+- هل أحتاج إلى خبرة في الذكاء الاصطناعي؟
+- هل أحتاج إلى برمجة؟
+- هل الموظفون AI برامج مستقلة؟
+- هل يمكنني استخدام المخرجات تجاريًا؟
+- هل اللغة العربية مدعومة؟
+- هل توجد ضمانات للنتائج؟
+- هل يمكن إعادة بيع الحزمة؟
+
+Only use claims supported by the existing product.
+
+If FAQPage structured data is appropriate for visible FAQ content, implement it; otherwise do not force it.
+
+==================================================
+11. BLOG FOUNDATION
+==================================================
+
+Prepare clean architecture for:
+ /blog/
+ /blog/ai-employees-for-small-business
+ /blog/how-to-use-ai-for-marketing
+ /blog/ai-customer-support
+ /blog/ai-sales-assistant
+ /blog/ai-content-creation
+ /blog/ai-business-automation
+ /blog/chatgpt-for-small-business
+
+Do NOT create empty/thin placeholder pages.
+
+If all routes require a large architecture change, implement only the blog foundation and the first article below.
+
+Do not overengineer.
+
+==================================================
+12. FIRST SEO ARTICLE — REQUIRED
+==================================================
+
+Create ONE genuinely useful Arabic article:
+
+Title:
+"موظفو الذكاء الاصطناعي: ما هم وكيف يمكن لصاحب المشروع استخدامها؟"
+
+Primary:
+موظفو الذكاء الاصطناعي
+
+Secondary:
+موظف ذكاء اصطناعي
+AI Employees
+AI Employee
+الذكاء الاصطناعي للمشاريع الصغيرة
+AI for Small Business
+ChatGPT للأعمال
+
+The article must:
+- explain what an AI Employee is
+- explain why small businesses use them
+- compare ordinary ChatGPT use vs AI Employee workflow
+- explain project context
+- explain role/task
+- explain workflow
+- explain output
+- explain quality gate
+- explain human review
+- provide practical examples
+- cover content, advertising, customer service, sales, and planning
+- avoid unsupported claims and guarantees
+
+Structure:
+H1
+Introduction
+What is an AI Employee?
+Why small businesses use AI Employees
+AI Employee vs ordinary ChatGPT prompt
+How an AI Employee workflow works
+Project Context
+Task
+Workflow
+Output
+Quality Gate
+Human Review
+10 examples of AI Employees
+How to choose the right AI Employee
+Common mistakes
+Practical example
+Conclusion
+Natural CTA to AI Employee Bundle V2.1
+
+The article must solve the reader's problem before presenting the product.
+
+==================================================
+13. ARTICLE CTA
+==================================================
+
+Near the conclusion, naturally introduce the product.
+
+Suggested direction:
+"إذا كنت تريد تطبيق الفكرة مباشرة بدل بناء كل موظف من الصفر، يمكنك الاطلاع على حزمة موظفي الذكاء الاصطناعي V2.1، التي تجمع 10 موظفين AI لمهام المحتوى والإعلانات وخدمة العملاء والمبيعات والمنتجات والعروض والسوشيال والمنافسين والتخطيط."
+
+Link to the existing real product/Payhip destination.
+
+Do not create or alter a checkout.
+
+==================================================
+14. ARTICLE METADATA
+==================================================
+
+Implement:
+- title
+- meta description
+- canonical
+- Open Graph
+- Article JSON-LD where valid
+
+Use a real author/date only if already available. Never fabricate.
+
+==================================================
+15. INTERNAL LINKING
+==================================================
+
+Homepage → first article.
+Article → homepage and existing product CTA/purchase destination.
+
+Use descriptive anchor text.
+
+Avoid excessive links.
+
+==================================================
+16. IMAGE SEO
+==================================================
+
+Inspect existing images.
+
+For meaningful images:
+- accurate alt text
+- descriptive filenames only where safe
+- no keyword stuffing
+
+Do not replace images unnecessarily.
+
+==================================================
+17. PERFORMANCE
+==================================================
+
+Inspect for safe improvements to:
+- oversized images
+- duplicate assets
+- unnecessary scripts
+- unnecessary dependencies
+- render-blocking resources
+
+Only make safe limited optimizations.
+
+Do not perform a major performance rewrite.
+
+==================================================
+18. MOBILE
+==================================================
+
+Preserve current mobile design.
+
+Ensure new content works at:
+320px
+375px
+390px
+430px
+
+No horizontal overflow.
+
+==================================================
+19. ANALYTICS
+==================================================
+
+First inspect whether analytics exists.
+
+If it exists, preserve it.
+
+If it does not exist, only add a lightweight privacy-conscious solution if it can work without hard-coded secrets.
+
+Never hard-code private keys.
+
+The system should allow:
+- page views
+- article visits
+- product CTA clicks
+
+Do not collect payment information.
+
+If an analytics system exists, track:
+product_cta_click
+
+Optional source:
+homepage
+blog
+article
+
+If analytics is unavailable, do not break the site trying to add it.
+
+==================================================
+20. FUTURE CONTENT MAP
+==================================================
+
+Planning topics:
+1. موظفو الذكاء الاصطناعي
+2. الذكاء الاصطناعي للمشاريع الصغيرة
+3. ChatGPT للأعمال
+4. الذكاء الاصطناعي في التسويق
+5. الذكاء الاصطناعي في خدمة العملاء
+6. الذكاء الاصطناعي في المبيعات
+7. صناعة المحتوى بالذكاء الاصطناعي
+8. AI Employees for Small Business
+9. AI Marketing Employee
+10. AI Sales Employee
+
+Use as planning data only.
+Do not expose keyword lists on the website.
+Do not create one page per keyword.
+
+==================================================
+21. SEARCH INTENT
+==================================================
+
+Commercial:
+AI Employee
+AI Employees
+AI Employees for Small Business
+موظف ذكاء اصطناعي
+
+Problem:
+كيف أستخدم الذكاء الاصطناعي في مشروعي
+كيف أستخدم ChatGPT في العمل
+الذكاء الاصطناعي للمشاريع الصغيرة
+
+Educational:
+ما هو موظف الذكاء الاصطناعي
+ما الفرق بين AI Employee وChatGPT
+كيف يعمل AI Employee
+
+Task:
+AI customer service
+AI sales assistant
+AI marketing assistant
+AI content employee
+
+Group related keywords by intent. Do not create thin pages for every keyword.
+
+==================================================
+22. TRUST / SAFETY
+==================================================
+
+Preserve:
+- no guaranteed sales
+- no guaranteed income
+- human review required
+- verify prices
+- verify discounts
+- verify policies
+- verify numbers
+- verify claims
+- caution with sensitive information
+- human review for financial/legal/irreversible decisions
+
+==================================================
+23. DO NOT OVERBUILD
+==================================================
+
+Target:
+CURRENT SALES PAGE
++
+TECHNICAL SEO
++
+ONE HIGH-QUALITY SEO ARTICLE
++
+INTERNAL LINKING
++
+STRUCTURED DATA
++
+SOCIAL METADATA
++
+BASIC ANALYTICS FOUNDATION
+
+Do NOT add:
+- CMS
+- database
+- authentication
+- admin panel
+- AI content generator
+- unnecessary libraries
+- massive SEO platform
+
+==================================================
+24. BUILD VALIDATION
+==================================================
+
+After modifications, run the actual scripts available in package.json:
+- build
+- lint if available
+- typecheck if available
+- tests if available
+
+Do not invent scripts.
+
+Fix errors caused by your changes.
+
+Verify:
+- imports
+- routes
+- JSX/TSX
+- JSON-LD
+- sitemap
+- robots.txt
+- Payhip CTA
+- mobile layout
+
+==================================================
+25. FINAL SEO CHECKLIST
+==================================================
+
+[ ] Homepage has one clear H1
+[ ] Title exists
+[ ] Meta description exists
+[ ] Canonical is correct
+[ ] Robots directives are correct
+[ ] robots.txt exists
+[ ] sitemap.xml exists
+[ ] Open Graph works
+[ ] Twitter metadata works
+[ ] JSON-LD is valid
+[ ] No fake reviews
+[ ] No fake ratings
+[ ] Product price remains $19
+[ ] Payhip checkout still works
+[ ] Existing CTA still works
+[ ] Existing demo still works
+[ ] Existing FAQ still works
+[ ] Arabic RTL works
+[ ] Mobile layout works
+[ ] No horizontal overflow
+[ ] Article is indexable
+[ ] Article has canonical
+[ ] Article links to homepage/product
+[ ] Homepage links to article
+[ ] No duplicate metadata
+[ ] No broken links
+[ ] Production build succeeds
+
+==================================================
+26. DEPLOYMENT SAFETY
+==================================================
+
+The repository is connected to Vercel.
+
+Before finishing:
+1. Verify build.
+2. Verify changed imports.
+3. Verify routes.
+4. Verify sitemap.
+5. Verify robots.txt.
+6. Verify metadata.
+7. Verify Payhip CTA.
+8. Verify no accidental deletion.
+9. Verify mobile responsiveness.
+10. Verify production build.
+
+Do not create a separate deployment workflow if the existing Git/Vercel integration handles deployment.
+
+==================================================
+27. FINAL REPORT
+==================================================
+
+After implementation, provide exactly:
+
+1. FILES INSPECTED
+2. FILES CREATED
+3. FILES MODIFIED
+4. SEO CHANGES
+5. CONTENT CHANGES
+6. STRUCTURED DATA
+7. ANALYTICS
+8. PERFORMANCE
+9. MOBILE
+10. BUILD RESULT
+11. POTENTIAL RISKS
+12. MANUAL TESTS I MUST PERFORM
+13. NEXT RECOMMENDED STEP
+
+For every modified file explain:
+- what changed
+- why
+- whether existing functionality is affected
+
+IMPORTANT:
+Do not stop at a plan. Implement the changes.
+
+If a credential/external configuration is absolutely required:
+- leave existing functionality untouched
+- document the limitation
+- continue with everything else.
+
+END OF PROMPT
